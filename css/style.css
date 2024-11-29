@@ -1,26 +1,26 @@
 html{
 
 
-  --body-color:#FFFCFF ;
+  --body-color:#fffffc ;
 
-  --header-color:#d36c6c;
+  --header-color:#000000;
 
-  --header-button:#92a1d1;
+  --header-button:#0033a0;
 
-  --color-weekdays: #247BA0;
+  --color-weekdays: #0033a0;
   
-  --box-shadow: #CBD4C2;
+  --box-shadow: #0033a0;
 
-  --hover: #e8faed;
+  --hover: #fffd97;
 
-  --current-day:#e8f4fa;
+  --current-day:#fff4bd;
 
-  --event-color: #58bae4;
+  --event-color: #0033a0;
 
-  --modal-event: #e8f4fa;
+  --modal-event: #fafae8;
 
 
- --color-day:white;
+ --color-day:rgb(255, 255, 227);
   
 }
 
